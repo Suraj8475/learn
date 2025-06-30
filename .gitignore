@@ -1,0 +1,2 @@
+# Ignore all .properties files in all folders
+**/*.properties
